@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rakesh Tadakamallla 
-- 👀 I’m Passionate on software developer
+- 👋 Hi, I’m Rakesh Tadakamalla 
+- 👀 I’m Passion on software development
 - 🌱 I’m currently Pursuing Master of Computer Applications 
 - 💞️ I’m looking for jos in the IT industry that will showcases all my talents
 - 📫 you can reach me at guptharakesh52545@gmail.com..
